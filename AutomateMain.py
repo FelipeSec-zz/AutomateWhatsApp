@@ -1,13 +1,18 @@
 import webbrowser
 import time
 import pyautogui as gui
+import jerson from numbers
 
+cell_numbers ={
+    5534996362004,
+    5534988362002
+}
 
 interval = 2
-position = 730,190
-numbers={917025674097, 919048525224}
+position = 677, 372
+numbers= cell_numbers
 
-message="Automated message"
+message = input('Insira a Mensagem:')
 
 for i in numbers:
  url = 'https://wa.me/{}?text={}'.format(i, message)
