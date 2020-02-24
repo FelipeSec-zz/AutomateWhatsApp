@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/FelipeSec/AutomateWhatsApp) 
+
 # Automação de WhatsApp
 
 Script Python para automação de mensagens de WhatsApp
