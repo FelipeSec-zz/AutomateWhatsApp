@@ -1,7 +1,6 @@
 import webbrowser
 import time
-import pyautogui as gui
-import jerson from numbers
+import pyautogui as gui 
 
 cell_numbers ={
     5534996362004,
