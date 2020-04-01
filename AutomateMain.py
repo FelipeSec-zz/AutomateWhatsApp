@@ -3,8 +3,7 @@ import time
 import pyautogui as gui 
 
 cell_numbers ={
-    5534996362004,
-    5534988362002
+    //insira os números
 }
 
 interval = 2
